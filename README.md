@@ -10,7 +10,6 @@ Meu nome é Rennan Keizo Sikina Del Massa, sou natural de Assis-SP e atualmente 
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de ADS na FEMA.
-- 💼 Auxiliar Fiscal na Central Máquinas.
 - 💻 Tenho interesse em desenvolvimento Front-End.
 - 🌱 Sempre buscando aprender novas tecnologias e desenvolver minhas habilidades.
 
