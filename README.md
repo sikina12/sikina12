@@ -3,7 +3,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End`**
 
-Meu nome é Rennan Keizo Sikina Del Massa, sou natural de Assis-SP e atualmente curso Análise e Desenvolvimento de Sistemas na FEMA. Trabalho como Auxiliar Fiscal na Central Máquinas e tenho como objetivo iniciar minha carreira na área de TI, aprimorando meus conhecimentos em programação e desenvolvimento.
+Meu nome é Rennan Keizo Sikina Del Massa, sou natural de Assis-SP e atualmente curso Análise e Desenvolvimento de Sistemas na FEMA. Tenho interesse na área de tecnologia, principalmente em desenvolvimento Front-End, e busco aprimorar meus conhecimentos em programação por meio dos estudos e projetos.
 
 ---
 
